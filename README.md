@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Leonardo Ferreyra (@leoferreyra022 on github)
+- 👋 Hi, I’m Leonardo Ferreyra, videogames 🎮 🖥️, technology 👨‍💻 and cinema 🎦 are my passion 💌
 - 👀 I’m interested in best practices and tools for Backend and Web Development, also Data engineering and CI/CD
 - 🌱 I’m currently learning gRPC with C#, .NET core and .NET 5-6, also doing the Data Engineer career path with Python in DataCamp
 - 📫 How to reach me ... my personal email is leo.e.ferreyra@gmail.com
