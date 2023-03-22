@@ -1,6 +1,6 @@
 - 👋  Hi, I’m Leonardo Ferreyra, videogames 🎮 🖥️, technology 👨‍💻 and cinema 🎦 are my passion 💌
 - 👀  Always looking for best practices and tools for Backend and Web Development
-- 🌱  I’m currently learning GO, React and gRPC with C#.
+- 🌱  I’m currently learning GO, Angular, GraphQL and gRPC with C#.
 - 📫  How to reach me ... my personal email is leo.e.ferreyra@gmail.com
 
 <!---
